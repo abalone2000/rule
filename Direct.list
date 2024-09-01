@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,fyhnb
 
+
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
@@ -153,6 +154,7 @@ DOMAIN-SUFFIX,toutiaohao.net
 DOMAIN-SUFFIX,toutiaoimg.com
 DOMAIN-SUFFIX,toutiaopage.com
 DOMAIN-SUFFIX,wukong.com
+DOMAIN-KEYWORD,fyhnb.fun
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,zijieimg.com
 DOMAIN-SUFFIX,zjbyte.com
